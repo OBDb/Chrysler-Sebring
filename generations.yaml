@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 1995
+    end_year: 2000
+    description: "The original Chrysler Sebring was available as a coupe and convertible, with the coupe based on the Mitsubishi Eclipse platform while the convertible was derived from the Chrysler Cirrus sedan. The coupe offered four-cylinder and V6 engine options up to 163 HP, while the convertible featured a standard V6. The Sebring convertible was particularly successful, offering a relatively affordable four-seat convertible with distinctive styling. This generation established the Sebring nameplate as Chrysler's mid-size offering with a focus on style and value."
+
+  - name: "Second Generation"
+    start_year: 2001
+    end_year: 2006
+    description: "The second-generation Sebring expanded to include a sedan model alongside updated coupe and convertible variants. The sedan and convertible shared Chrysler's JR platform, while the coupe continued on a Mitsubishi platform. Engine options included four-cylinder and V6 units, with the 2.7L V6 being the most popular choice. The convertible remained a strong seller with its power-retractable top and reasonably spacious interior. Interior quality and design were improved compared to the previous generation, though still not class-leading. This generation maintained the Sebring's position as a value-oriented alternative to competitors from Honda and Toyota."
+
+  - name: "Third Generation"
+    start_year: 2007
+    end_year: 2010
+    description: "The final Sebring generation underwent a complete redesign with controversial styling featuring ribbed hood strakes and a distinctive front fascia. Available as a sedan or convertible (with cloth, vinyl, or retractable hardtop options), it was built on Chrysler's JS platform. Engine options included a base 2.4L four-cylinder, 2.7L V6, and a 3.5L V6 in top trims. Interior quality was widely criticized, with hard plastics and dated design. The convertible continued to offer one of the few affordable hardtop convertibles on the market. This generation struggled in a competitive segment and was critically panned for its execution, leading to its replacement by the significantly improved Chrysler 200 after Fiat's acquisition of Chrysler. Despite its shortcomings, the third-generation Sebring sold in reasonable numbers, particularly to fleet customers."
