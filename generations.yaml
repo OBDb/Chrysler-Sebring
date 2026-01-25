@@ -1,15 +1,33 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chrysler_Sebring"
+
 generations:
-  - name: "First Generation"
+  - name: "First Generation (Coupe)"
     start_year: 1995
     end_year: 2000
-    description: "The original Chrysler Sebring was available as a coupe and convertible, with the coupe based on the Mitsubishi Eclipse platform while the convertible was derived from the Chrysler Cirrus sedan. The coupe offered four-cylinder and V6 engine options up to 163 HP, while the convertible featured a standard V6. The Sebring convertible was particularly successful, offering a relatively affordable four-seat convertible with distinctive styling. This generation established the Sebring nameplate as Chrysler's mid-size offering with a focus on style and value."
+    description: "The Chrysler Sebring coupe was introduced in April 1995, succeeding the Chrysler LeBaron coupe. It was based on the Mitsubishi Eclipse platform (Chrysler FJ platform) and manufactured at the Mitsubishi plant in Normal, Illinois. The coupe featured four-cylinder and V6 engine options, including a 2.0L 420A I4 and 2.5L 6G73 Mitsubishi V6. The 1997 model year received a minor facelift with a new larger black grille, ribbed lower body cladding, and new wheel styles. This generation set the foundation for the Sebring nameplate with distinctive styling and competitive pricing."
 
-  - name: "Second Generation"
+  - name: "First Generation (Convertible)"
+    start_year: 1996
+    end_year: 2000
+    description: "The Chrysler Sebring convertible was launched in 1996, replacing the LeBaron convertible. Unlike the coupe, it was based on the Chrysler JA/JX platform also used for the Chrysler Cirrus sedan and was assembled in Mexico. The convertible featured 2.4L EDZ and turocharged 2.4L EDV/EDT four-cylinder engines, or a 2.5L Mitsubishi 6G73 V6. The convertible was marketed in Europe and Mexico as the Chrysler Stratus. This model offered an affordable four-seat convertible with a focus on style and value."
+
+  - name: "Second Generation (Sedan and Convertible)"
     start_year: 2001
     end_year: 2006
-    description: "The second-generation Sebring expanded to include a sedan model alongside updated coupe and convertible variants. The sedan and convertible shared Chrysler's JR platform, while the coupe continued on a Mitsubishi platform. Engine options included four-cylinder and V6 units, with the 2.7L V6 being the most popular choice. The convertible remained a strong seller with its power-retractable top and reasonably spacious interior. Interior quality and design were improved compared to the previous generation, though still not class-leading. This generation maintained the Sebring's position as a value-oriented alternative to competitors from Honda and Toyota."
+    description: "Presented at the 2000 New York Auto Show, the second-generation Sebring sedan and convertible shared the Chrysler JR platform and were assembled in Sterling Heights, Michigan. The sedan and convertible featured 2.4L EDZ four-cylinder engines and a 2.7L EER V6 with E85 capability. The 2004 sedan received minor tweaks including a redesigned grille, reworked headlights, and Chrysler winged emblem. In Mexico, the Sebring was marketed as the Chrysler Cirrus with availability of a turbocharged 2.4L DOHC engine unique to that market. Both body styles maintained strong sales in the convertible segment."
 
-  - name: "Third Generation"
+  - name: "Second Generation (Coupe)"
+    start_year: 2001
+    end_year: 2005
+    description: "The second-generation Sebring coupe was styled by Chrysler and engineered by Mitsubishi Motors North America at their Normal, Illinois facility. It was based on the Mitsubishi Eclipse's Chrysler ST-22 platform with a three-inch wheelbase extension. The coupe featured 2.4L Mitsubishi 4G64 four-cylinder (147 hp) and 3.0L Mitsubishi 6G72 V6 (200 hp) engines. The coupe received a minor facelift for 2003. It was discontinued after the 2005 model year."
+
+  - name: "Third Generation (Sedan)"
     start_year: 2007
     end_year: 2010
-    description: "The final Sebring generation underwent a complete redesign with controversial styling featuring ribbed hood strakes and a distinctive front fascia. Available as a sedan or convertible (with cloth, vinyl, or retractable hardtop options), it was built on Chrysler's JS platform. Engine options included a base 2.4L four-cylinder, 2.7L V6, and a 3.5L V6 in top trims. Interior quality was widely criticized, with hard plastics and dated design. The convertible continued to offer one of the few affordable hardtop convertibles on the market. This generation struggled in a competitive segment and was critically panned for its execution, leading to its replacement by the significantly improved Chrysler 200 after Fiat's acquisition of Chrysler. Despite its shortcomings, the third-generation Sebring sold in reasonable numbers, particularly to fleet customers."
+    description: "The third-generation Sebring sedan was introduced for 2007, built on the Chrysler JS platform and assembled in Sterling Heights, Michigan. It featured a complete redesign with a distinctive front fascia and ribbed hood strakes. Engine options included a 2.4L GEMA World I4, 2.7L EER V6 capable of E85, and 3.5L EGF SOHC V6. The 3.5L V6 model was available with all-wheel drive for 2008 only. In 2009, rear badge placements were modified. For 2010, the hood was redesigned eliminating longitudinal grooves, and the Sebring received IIHS Top Safety Pick awards for its crash performance. The sedan was replaced by the rebadged Chrysler 200 for the 2011 model year."
+
+  - name: "Third Generation (Convertible)"
+    start_year: 2008
+    end_year: 2010
+    description: "The third-generation Sebring convertible debuted at the 2007 Los Angeles International Auto Show as an early 2008 model. Unlike the 2007 sedan-only year, the convertible featured hood strakes recalling the Chrysler Crossfire design. It offered both retractable hardtop and soft top options manufactured by Karmann. The LX model included a 2.4L I4, Touring came with a 2.7L V6, and Limited featured a 3.5L V6. It was the second bestselling four-place open-top car in the United States, trailing only the Ford Mustang convertible. The convertible was replaced by the Chrysler 200 convertible for the 2011 model year."
